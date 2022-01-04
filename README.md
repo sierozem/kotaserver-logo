@@ -1,0 +1,1 @@
+# KotaServer ロゴ
